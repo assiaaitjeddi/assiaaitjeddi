@@ -11,10 +11,6 @@
 
 ---
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=assiaaitjeddi" alt="assiaaitjeddi" /></a> 
-</p>
-
 📫 **How to reach me:** <br>
 ✉️ **Email:** <b>assiaaitjeddi2002@gmail.com</b> <br>
 💼 **LinkedIn:** [Assia Ait Jeddi](https://www.linkedin.com/in/assia-ait-jeddi-b96b22248/) <br>
