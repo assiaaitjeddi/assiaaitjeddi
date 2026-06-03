@@ -64,7 +64,7 @@
 
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=assiaaitjeddi&show_icons=true&locale=en"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=assiaaitjeddi&show_icons=true"
        alt="GitHub Stats" />
 </p>
 
@@ -76,6 +76,6 @@
 
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=assiaaitjeddi&show_icons=true&locale=en&layout=compact"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=assiaaitjeddi&layout=compact"
        alt="Top Languages" />
 </p>
