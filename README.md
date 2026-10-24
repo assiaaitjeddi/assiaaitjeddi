@@ -22,13 +22,6 @@ I'm an **AI Engineer** specializing in the design and development of intelligent
 
 I'm passionate about building practical AI solutions that improve decision-making, automate workflows, and deliver meaningful value.
 
-- 🎓 **Education:** Master's in Distributed Systems and Artificial Intelligence at ENSET Casablanca.
-- 🤖 **AI & Machine Learning:** Predictive modeling, NLP, computer vision, and intelligent systems.
-- 🧠 **Generative AI:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and prompt engineering.
-- 🔗 **Intelligent Agents:** Agentic workflows, multi-agent orchestration, and domain-specific AI assistants.
-- 📊 **Data Engineering:** Data preprocessing, ETL/ELT pipelines, feature engineering, and vector search.
-- ☁️ **Cloud & MLOps:** Containerized AI services, model evaluation, and scalable architectures.
-- 🌍 **Languages:** Arabic, English, and French.
 
 ---
 
