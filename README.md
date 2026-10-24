@@ -123,20 +123,6 @@ I'm passionate about building practical AI solutions that improve decision-makin
 ---
 
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:assiaaitjeddi2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-assiaaitjeddi2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/assia-ait-jeddi-b96b22248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Assia_Ait_Jeddi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/assiaaitjeddi">
-    <img src="https://img.shields.io/badge/GitHub-assiaaitjeddi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
 <p align="center">
   <i>Building intelligent systems, turning data into insights, and transforming ideas into practical AI solutions.</i>
 </p>
