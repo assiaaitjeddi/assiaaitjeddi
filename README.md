@@ -96,13 +96,6 @@ I'm passionate about building practical AI solutions that improve decision-makin
 
 ---
 
-## 🎓 Education
-
-- **Master's in Distributed Systems and Artificial Intelligence** — ENSET Casablanca, Morocco (2025)
-- **Bachelor's in Computer Science** — Faculty of Science and Technology, Casablanca, Morocco (2023)
-- **Preparatory Classes in Mathematics, Computer Science, and Physics** — Morocco (2022)
-
----
 
 ## 📊 GitHub Statistics
 
