@@ -141,10 +141,16 @@ I'm passionate about building practical AI solutions that improve decision-makin
 <p align="center">
   <a href="https://github.com/assiaaitjeddi">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=assiaaitjeddi&theme=github-compact&hide_border=true&area=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=assiaaitjeddi&theme=github&hide_border=true"
       alt="Assia's GitHub Contribution Activity Graph"
       width="100%"
     />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/assiaaitjeddi">
+    View my GitHub contribution history →
   </a>
 </p>
 
